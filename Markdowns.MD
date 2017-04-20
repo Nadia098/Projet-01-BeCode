@@ -1,4 +1,4 @@
-![Logo animé Sarah](url)
+![Logo animé Sarah](http://hpics.li/767a228)
 
 ## Qu'est-ce qu'un environnement d'apprentissage optimisé ?
 
@@ -16,4 +16,9 @@ Lorem ipsum...
 * Via un auto apprentissage
 
 ## Quelles sont les valeurs qui sont pronếes au sein de BeCode ?
+
+* L'entraide, le partage 
+* Autonomie, aller au fonds des choses
+* Confiance en soi
+
 
